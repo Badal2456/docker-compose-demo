@@ -20,7 +20,7 @@ This project demonstrates a simple Docker Compose application with two container
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Badal2456/docker-compose-demo.git
 cd docker-compose-demo
 ```
 
